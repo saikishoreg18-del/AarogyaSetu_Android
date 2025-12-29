@@ -23,7 +23,6 @@ Vikalp Sahni
 Rahul Goyal  
 Rahul Matthan  
 Arghya Sengupta
-Kishore
 
 ---------------------------------
 Contributors (Government)
